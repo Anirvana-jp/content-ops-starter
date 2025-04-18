@@ -115,7 +115,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-4
+          - pt-3
 slug: /publications
 isDraft: false
 seo:
