@@ -3,7 +3,7 @@ type: PageLayout
 title: Academic Profile
 sections:
   - type: GenericSection
-    subtitle: '2008-2012 B.E. in Civil Engineering, BIT Mesra, India'
+    subtitle: ACADEMIC CAREER
     text: |
       2008-2012 B.E. in Civil Engineering, BIT Mesra, India
     actions: []
