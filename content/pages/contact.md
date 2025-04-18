@@ -3,17 +3,21 @@ type: PageLayout
 title: Contact
 sections:
   - type: GenericSection
-    subtitle: E-mail
+    subtitle: E-MAIL
     text: |
-      anirban1990\@gmail.com 
+      <anirban1990@gmail.com>
 
-      anirban\@catfish.dpri.kyoto-u.ac.jp
+      <anirban@catfish.dpri.ac.jp>
     actions: []
     badge:
       type: Badge
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-10
 slug: /contact
 isDraft: false
 seo:
