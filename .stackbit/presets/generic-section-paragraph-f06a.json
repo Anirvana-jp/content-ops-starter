@@ -1,0 +1,35 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Paragraph",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Paragraph"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "ACADEMIC CAREER",
+                "text": "2008-2012 B.E. in Civil Engineering, BIT Mesra, India\n\n\n2016-2018 M.E. in Earthquake Engineering, Kyoto University, Japan \n\n\n2018-2021 Ph.D. in Earthquake Engineering, Kyoto University, Japan \n",
+                "actions": [],
+                "media": null,
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": null
+            },
+            "thumbnail": "images/generic-section-paragraph-f06a.png"
+        }
+    ]
+}
