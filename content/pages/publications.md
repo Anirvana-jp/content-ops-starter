@@ -55,7 +55,7 @@ sections:
         padding:
           - pt-10
   - type: GenericSection
-    subtitle: CONFERENCE ABSTRACTS & PROCEEDINGS
+    subtitle: Conference Abstracts and Proceedings
     text: >+
       *   **Chakraborty A**, & Kotha SR (2024) Uncertainty projected mapping of
       site-response in Kanto basin of Japan, ESC 2024, 22-27 September, Corfu,
