@@ -1,19 +1,7 @@
 ---
 type: PageLayout
 title: Contact
-sections:
-  - type: GenericSection
-    subtitle: E-mail
-    text: |
-      anirban1990\@gmail.com 
-
-      anirban\@catfish.dpri.kyoto-u.ac.jp
-    actions: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
+sections: []
 slug: /contact
 isDraft: false
 seo:
