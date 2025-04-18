@@ -43,7 +43,7 @@
         },
         {
             "type": "Link",
-            "label": "Research Themes",
+            "label": "Academic Profile",
             "url": "/academic_profile",
             "showIcon": false,
             "icon": "arrowRight",
