@@ -93,7 +93,7 @@ sections:
       *   Goto H, Hirai T, Eguchi T, Nakamoto M, **Chakraborty A**, & Yamashita
       D (2018) The 2018 Northern Osaka Earthquake Aftershock observation around
       Ibaraki City in Osaka, SSJ 2018, 9-11 October, Koriyama, Japan. 
-      (Japanese)
+      (**Japanese**)
 
 
       *   **Chakraborty A**, & Goto H (2018) A Bayesian methodology reflecting
@@ -104,7 +104,7 @@ sections:
 
       *   **Chakraborty A**, & Goto H (2017) A Bayesian-based novel methodology
       to generate reliable site response mapping sensitive to data
-      uncertainties, SSJ 2017, 25-27 October, Kagoshima, Japan. (Japanese)
+      uncertainties, SSJ 2017, 25-27 October, Kagoshima, Japan. (**Japanese**)
 
     actions: []
     badge:
