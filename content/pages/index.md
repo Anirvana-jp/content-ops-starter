@@ -11,10 +11,6 @@ sections:
       type: ImageBlock
       url: /images/IMG_3756.jpg
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
