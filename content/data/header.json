@@ -43,15 +43,6 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Earthquake Survey",
             "url": "/earthquake_survey",
@@ -60,6 +51,15 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
         },
         {
             "type": "Link",
