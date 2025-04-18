@@ -18,6 +18,10 @@ sections:
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-4
 slug: /academic_profile
 isDraft: false
 seo:
