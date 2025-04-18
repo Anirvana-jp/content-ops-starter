@@ -53,7 +53,7 @@
         },
         {
             "type": "Link",
-            "label": "Research Themes",
+            "label": "Earthquake Survey",
             "url": "/earthquake_survey",
             "showIcon": false,
             "icon": "arrowRight",
