@@ -15,7 +15,7 @@
         },
         {
             "altText": "Email link",
-            "url": "anirban1990@gmail.com",
+            "url": "mailto:anirban1990@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
