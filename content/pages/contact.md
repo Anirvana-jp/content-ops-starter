@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: CONTACT FORM
+      text: Email
       color: text-dark
     subtitle: 'If you have any questions or queries, please feel free to reach out.'
     text: ''
