@@ -4,9 +4,8 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Anirban is a researcher specializing in earthquake engineering. 
     actions: []
     media:
       type: ImageBlock
