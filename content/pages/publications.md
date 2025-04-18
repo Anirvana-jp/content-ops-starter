@@ -3,7 +3,7 @@ type: PageLayout
 title: Publications
 sections:
   - type: GenericSection
-    subtitle: PEER-REVIEWED
+    subtitle: Peer-Reviewed Publications
     text: >+
       *   **Chakraborty A**, Goto H, & Sawada S (2023). Updating proxy-based
       site amplification map with in-situ data in Osaka, Japan: A Bayesian
@@ -55,7 +55,7 @@ sections:
         padding:
           - pt-10
   - type: GenericSection
-    subtitle: CONFERENCE ABSTRACTS & PROCEEDINGS
+    subtitle: Conference Abstracts and Proceedings
     text: >+
       *   **Chakraborty A**, & Kotha SR (2024) Uncertainty projected mapping of
       site-response in Kanto basin of Japan, ESC 2024, 22-27 September, Corfu,
