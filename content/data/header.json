@@ -45,7 +45,7 @@
             "type": "Button",
             "label": "Earthquake Surveys",
             "altText": "",
-            "url": "/ Earthquake Surveys",
+            "url": "/earthquake_surveys",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
