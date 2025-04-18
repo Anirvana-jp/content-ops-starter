@@ -5,9 +5,9 @@ sections:
   - type: GenericSection
     subtitle: E-MAIL
     text: |
-      anirban1990\@gmail.com
+      <anirban1990@gmail.com>
 
-      anirban\@catfish.dpri.ac.jp
+      <anirban@catfish.dpri.ac.jp>
     actions: []
     badge:
       type: Badge
