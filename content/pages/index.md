@@ -4,8 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: ''
-    text: |
-      Anirban is a researcher specializing in earthquake engineering. 
+    text: >
+      Anirban is a researcher who specializes in earthquake engineering. He
+      earned his M.E. degree in 2018 and his Ph.D. in 2021 from the DPRI at
+      Kyoto University in Japan. 
     actions: []
     media:
       type: ImageBlock
