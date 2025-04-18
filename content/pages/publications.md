@@ -5,10 +5,9 @@ sections:
   - type: GenericSection
     subtitle: PEER-REVIEWED
     text: >+
-      *   [**Chakraborty A**, Goto H, & Sawada S (2023). Updating proxy-based
-      site amplification map with in-situ data in Osaka, Japan: A Bayesian
-      scheme based on Uncertainty Projected Mapping. *Earthquake Spectra,*
-      40(1),
+      > [**Chakraborty A**, Goto H, & Sawada S (2023). Updating proxy-based site
+      amplification map with in-situ data in Osaka, Japan: A Bayesian scheme
+      based on Uncertainty Projected Mapping. *Earthquake Spectra,* 40(1),
       113-142.](https://journals.sagepub.com/doi/abs/10.1177/87552930231207110)
 
 
