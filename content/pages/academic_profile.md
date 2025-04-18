@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ACADEMIC PROFILE
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: 2008-2012 B.E. in Civil Engineering
     text: ''
     actions: []
     badge:
