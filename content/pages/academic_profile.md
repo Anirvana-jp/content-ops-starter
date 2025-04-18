@@ -4,7 +4,8 @@ title: Academic Profile
 sections:
   - type: GenericSection
     subtitle: '2008-2012 B.E. in Civil Engineering, BIT Mesra, India'
-    text: ''
+    text: |
+      2008-2012 B.E. in Civil Engineering, BIT Mesra, India
     actions: []
     badge:
       type: Badge
