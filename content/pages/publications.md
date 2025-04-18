@@ -53,7 +53,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-4
+          - pt-0
   - type: GenericSection
     subtitle: CONFERENCE ABSTRACTS & PROCEEDINGS
     text: >+
