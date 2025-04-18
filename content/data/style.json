@@ -77,7 +77,7 @@
     "linkPrimary": {
         "weight": "bold",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wide",
         "type": "ThemeStyleLink"
     },
     "linkSecondary": {
