@@ -28,7 +28,7 @@ sections:
 seo:
   metaTitle: Anirban Chakraborty | Researcher
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/5.jpg
   type: Seo
   addTitleSuffix: true
 type: PageLayout
