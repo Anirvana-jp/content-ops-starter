@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ACADEMIC PROFILE
       color: text-dark
-    subtitle: 2008-2012 B.E. in Civil Engineering
+    subtitle: '2008-2012 B.E. in Civil Engineering, BIT Mesra, India'
     text: ''
     actions: []
     badge:
