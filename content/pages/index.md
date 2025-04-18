@@ -44,14 +44,7 @@ sections:
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Screen Shot 2025-04-19 at 0.01.52.png
