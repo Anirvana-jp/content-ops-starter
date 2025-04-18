@@ -53,7 +53,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-3
+          - pt-2
   - type: GenericSection
     subtitle: ACADEMIC CAREER
     text: >+
