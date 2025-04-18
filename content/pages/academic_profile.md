@@ -3,7 +3,7 @@ type: PageLayout
 title: Academic Profile
 sections:
   - type: GenericSection
-    subtitle: ACADEMIC CAREER
+    subtitle: Academic Timeline
     text: |
       **2008-2012** B.E. in Civil Engineering, BIT Mesra, India
 
@@ -26,9 +26,9 @@ slug: /academic_profile
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: Anirban Chakraborty | Academic Profile
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/5.jpg
   metaTags: []
 ---
