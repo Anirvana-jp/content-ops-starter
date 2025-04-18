@@ -24,15 +24,6 @@
             "elementId": ""
         },
         {
-            "label": "Publications",
-            "altText": "Careers page",
-            "url": "/publications",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Research Themes",
             "url": "/research_themes",
             "icon": "arrowRight",
@@ -41,6 +32,15 @@
             "type": "Link",
             "showIcon": false,
             "elementId": ""
+        },
+        {
+            "label": "Publications",
+            "altText": "Careers page",
+            "url": "/publications",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Blog",
