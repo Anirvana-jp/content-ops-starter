@@ -26,7 +26,7 @@ sections:
           - pr-7
     type: DividerSection
 seo:
-  metaTitle: Anirban Chakraborty | Researcher
+  metaTitle: Anirban Chakraborty
   metaDescription: ''
   socialImage: /images/5.jpg
   type: Seo
