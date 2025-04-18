@@ -3,7 +3,7 @@ type: PageLayout
 title: Publications
 sections:
   - type: GenericSection
-    subtitle: ACADEMIC CAREER
+    subtitle: PEER-REVIEWED
     text: |
       2008-2012 B.E. in Civil Engineering, BIT Mesra, India
 
