@@ -53,7 +53,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-0
+          - pt-10
   - type: GenericSection
     subtitle: CONFERENCE ABSTRACTS & PROCEEDINGS
     text: >+
@@ -115,7 +115,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-3
+          - pt-10
 slug: /publications
 isDraft: false
 seo:
