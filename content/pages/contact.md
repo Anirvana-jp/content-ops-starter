@@ -5,13 +5,9 @@ sections:
   - type: GenericSection
     subtitle: E-MAIL
     text: |
-      2008-2012 B.E. in Civil Engineering, BIT Mesra, India
+      anirban1990\@gmail.com
 
-
-      2016-2018 M.E. in Earthquake Engineering, Kyoto University, Japan 
-
-
-      2018-2021 Ph.D. in Earthquake Engineering, Kyoto University, Japan 
+      anirban\@catfish.dpri.ac.jp
     actions: []
     badge:
       type: Badge
