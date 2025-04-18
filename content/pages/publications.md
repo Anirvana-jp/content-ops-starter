@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Social Media Management
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           *   [**Chakraborty A**, Goto H, & Sawada S (2023). Updating
           proxy-based site amplification map with in-situ data in Osaka, Japan:
