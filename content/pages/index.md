@@ -86,7 +86,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Top_1.jpg
+      url: /images/3.jpeg
       altText: Fun feature preview
       styles:
         self:
