@@ -75,14 +75,9 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >
-      Anirban is a researcher who specializes in earthquake engineering. He is
-      currently working as an associate faculty at Hosei University in Japan. He
-      earned his M.E. degree in 2018 and his Ph.D. in 2021 from the Disaster
-      Prevention Research Institute at Kyoto University in Japan. He has
-      developed Uncertainty Projected Mapping (UPM), a Bayesian-based spatial
-      interpolation method for quantifying uncertainty in earthquake
-      site-response maps. His research interests include studying the response
-      to ambient noise in mountains in search of topographical signatures.
+      Besides doing research, Anirban is also active in giving back to the
+      community. He is the co-founder of MEXT Scholars Association (MSA), an
+      organization dedicated to the international students' community in Japan. 
     actions: []
     media:
       type: ImageBlock
