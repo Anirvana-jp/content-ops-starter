@@ -3,7 +3,7 @@ type: PageLayout
 title: Publications
 sections:
   - type: GenericSection
-    subtitle: Peer-Reviewed
+    subtitle: Peer-Reviewed Publications
     text: >+
       *   **Chakraborty A**, Goto H, & Sawada S (2023). Updating proxy-based
       site amplification map with in-situ data in Osaka, Japan: A Bayesian
