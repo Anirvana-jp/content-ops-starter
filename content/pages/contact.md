@@ -3,7 +3,7 @@ type: PageLayout
 title: Contact
 sections:
   - type: GenericSection
-    subtitle: ACADEMIC CAREER
+    subtitle: E-mail
     text: |
       2008-2012 B.E. in Civil Engineering, BIT Mesra, India
 
