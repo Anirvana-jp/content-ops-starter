@@ -55,6 +55,22 @@ sections:
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
+  - type: GenericSection
+    subtitle: ACADEMIC CAREER
+    text: |
+      2008-2012 B.E. in Civil Engineering, BIT Mesra, India
+
+
+      2016-2018 M.E. in Earthquake Engineering, Kyoto University, Japan 
+
+
+      2018-2021 Ph.D. in Earthquake Engineering, Kyoto University, Japan 
+    actions: []
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
 slug: /publications
 isDraft: false
 seo:
