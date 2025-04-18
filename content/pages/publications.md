@@ -57,14 +57,56 @@ sections:
     colors: bg-light-fg-dark
   - type: GenericSection
     subtitle: ACADEMIC CAREER
-    text: |
-      2008-2012 B.E. in Civil Engineering, BIT Mesra, India
+    text: >+
+      *   **Chakraborty A**, & Kotha SR (2024) Uncertainty projected mapping of
+      site-response in Kanto basin of Japan, ESC 2024, 22-27 September, Corfu,
+      Greece.
 
 
-      2016-2018 M.E. in Earthquake Engineering, Kyoto University, Japan 
+      *   Kato K, **Chakraborty A**, Yamashita D, Otake R, Morikawa H (2024)
+      Ambient vibration survey and 3D FEM analysis of a complex mountain:
+      Understanding ridge effects on directional amplification, ESC 2024, 22-27
+      September, Corfu, Greece.
 
 
-      2018-2021 Ph.D. in Earthquake Engineering, Kyoto University, Japan 
+      *   **Chakraborty A**, Goto H, & Sawada S (2024) Uncertainty Projected
+      Mapping: A Bayesian tool for generating site response maps with
+      statistically significant resolution, EGU 2024, EGU24-3720, 14-19 April,
+      Vienna, Austria.
+
+
+      *   **Chakraborty A**, Goto H, & Sawada S (2022) Updating proxy-based site
+      amplification map in Osaka, Japan with soil borehole data: A Bayesian
+      updating scheme based on Uncertainty Projected Mapping, AGU 2022, S45B-08,
+      12-16 December, Chicago, USA.
+
+
+      *   **Chakraborty A**, & Goto H (2021) Visualizing data saturation in
+      geospatial mapping with application to earthquake engineering, Proceedings
+      of WCEE 2020-2, 1d-0004, 27 September – 2 October, Sendai, Japan.
+
+
+      *   Goto H, & **Chakraborty A** (2021) Uniform Uncertainty Mapping
+      Application to Seismology and Earthquake Engineering Problems, AGU 2021,
+      S15B-0251, 13-17 December, New Orleans, USA.
+
+
+      *   Goto H, Hirai T, Eguchi T, Nakamoto M, **Chakraborty A**, & Yamashita
+      D (2018) The 2018 Northern Osaka Earthquake Aftershock observation around
+      Ibaraki City in Osaka, SSJ 2018, 9-11 October, Koriyama, Japan. 
+      (Japanese)
+
+
+      *   **Chakraborty A**, & Goto H (2018) A Bayesian methodology reflecting
+      uncertainties on map resolutions with application to the study of site
+      response variation, Recent Research Progress on Earthquake Engineering and
+      Engineering Seismology, GNS Science, 19 March, Wellington, NZ.
+
+
+      *   **Chakraborty A**, & Goto H (2017) A Bayesian-based novel methodology
+      to generate reliable site response mapping sensitive to data
+      uncertainties, SSJ 2017, 25-27 October, Kagoshima, Japan. (Japanese)
+
     actions: []
     badge:
       type: Badge
