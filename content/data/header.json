@@ -43,7 +43,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Earthquake Surveys",
             "altText": "",
             "url": "/ Earthquake Surveys",
             "showIcon": false,
