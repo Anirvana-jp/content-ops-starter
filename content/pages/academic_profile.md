@@ -3,7 +3,7 @@ type: PageLayout
 title: Academic Profile
 sections:
   - type: GenericSection
-    subtitle: Academic Career
+    subtitle: Academic Timeline
     text: |
       **2008-2012** B.E. in Civil Engineering, BIT Mesra, India
 
