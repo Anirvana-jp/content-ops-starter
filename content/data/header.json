@@ -14,6 +14,16 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "Academic Profile",
+            "url": "/academic_profile",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Publications",
             "altText": "Careers page",
             "url": "/publications",
@@ -39,16 +49,6 @@
             "style": "primary",
             "type": "Link",
             "showIcon": false,
-            "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Academic Profile",
-            "url": "/academic_profile",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
             "elementId": ""
         }
     ],
