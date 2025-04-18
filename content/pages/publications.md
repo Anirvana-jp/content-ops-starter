@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Peer-reviewed Journal Publications
         tagline: Feature 1
         subtitle: ''
         text: >+
