@@ -2,74 +2,59 @@
 type: PageLayout
 title: Publications
 sections:
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Peer-reviewed Journal Publications
-        tagline: Feature 1
-        subtitle: ''
-        text: >+
-          *   **Chakraborty A**, Goto H, & Sawada S (2023). Updating proxy-based
-          site amplification map with in-situ data in Osaka, Japan: A Bayesian
-          scheme based on Uncertainty Projected Mapping. *Earthquake Spectra*,
-          40(1), 113-142.
+  - type: GenericSection
+    subtitle: PEER-REVIEWED
+    text: >+
+      *   [**Chakraborty A**, Goto H, & Sawada S (2023). Updating proxy-based
+      site amplification map with in-situ data in Osaka, Japan: A Bayesian
+      scheme based on Uncertainty Projected Mapping. *Earthquake Spectra,*
+      40(1),
+      113-142.](https://journals.sagepub.com/doi/abs/10.1177/87552930231207110)
 
 
-          *   **Chakraborty A**, & Goto H (2020). Visualizing data saturation
-          process in mapping site amplification of earthquake ground motions.
-          *Journal of Natural Disaster Science*, 40(2), 14-25.
+
+      *   [**Chakraborty A**, & Goto H (2020). Visualizing data saturation
+      process in mapping site amplification of earthquake ground motions.
+      *Journal of Natural Disaster Science*, 40(2),
+      14-25.](https://www.jstage.jst.go.jp/article/jnds/40/2/40_14/_article)
 
 
-          *   **Chakraborty A**, & Goto H (2018). A Bayesian model reflecting
-          uncertainties on map resolutions with application to the study of site
-          response variation. *Geophysical Journal International*, 214(3),
-          2264-2276.
+
+      *   [**Chakraborty A**, & Goto H (2018). A Bayesian model reflecting
+      uncertainties on map resolutions with application to the study of site
+      response variation. *Geophysical Journal International*, 214(3),
+      2264-2276.](https://academic.oup.com/gji/article/214/3/2264/5046456)
 
 
-          *   Eguchi, H, Goto H, Kurima J, & **Chakraborty A** (2023).
-          Comparisons with site amplifications and S-wave impedance of the
-          uppermost surface layer at Soma city. Special Issue (Earthquake
-          Engineering) Technical Report, *Japanese Journal of JSCE*, 79(13),
-          22-13041. (**Japanese**)
+
+      *   [Eguchi H, Goto H, Kurima J, & **Chakraborty A** (2023). Comparisons
+      with site amplifications and S-wave impedance of the uppermost surface
+      layer at Soma city. Special Issue (Earthquake Engineering) Technical
+      Report, *Japanese Journal of JSCE*, 79(13), 22-13041.
+      (**Japanese**)](https://www.jstage.jst.go.jp/article/jscejj/79/13/79_22-13041/_article/-char/ja/)
 
 
-          *   Goto H, & **Chakraborty A** (2022). Visualizing spatial
-          probability fields reflecting significant differences in neighboring
-          values. *Japan Society of Civil Engineering proceedings A1
-          (Structural/Earthquake Engineering)*,78(4), I-79-I-86. (**Japanese**)
+
+      *   [Goto H, & **Chakraborty A** (2022). Visualizing spatial probability
+      fields reflecting significant differences in neighboring values. *Japan
+      Society of Civil Engineering proceedings A1 (Structural/Earthquake
+      Engineering)*,78(4), I-79-I-86.
+      (**Japanese**)](https://www.jstage.jst.go.jp/article/jscejseee/78/4/78_I_79/_article/-char/ja/)
 
 
-          *   **Chakraborty A**, Ibrahim A, & Cruz AM (2018) A study of accident
-          investigation methodologies applied to the Natech events during the
-          2011 Great East Japan earthquake. *Journal of Loss Prevention in
-          Process Industries*, 51, 208-222.
 
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
+      *   [**Chakraborty A**, Ibrahim A, & Cruz AM (2018) A study of accident
+      investigation methodologies applied to the Natech events during the 2011
+      Great East Japan earthquake. *Journal of Loss Prevention in Process
+      Industries*, 51,
+      208-222.](https://www.sciencedirect.com/science/article/abs/pii/S0950423017305028)
+
+    actions: []
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
     colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 slug: /publications
 isDraft: false
 seo:
