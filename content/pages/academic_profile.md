@@ -21,7 +21,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-4
+          - pt-0
 slug: /academic_profile
 isDraft: false
 seo:
