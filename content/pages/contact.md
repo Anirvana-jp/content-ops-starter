@@ -1,20 +1,7 @@
 ---
 type: PageLayout
 title: Contact
-sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Email
-      color: text-dark
-    subtitle: anirban1990@gmail.com
-    text: ''
-    actions: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
+sections: []
 slug: /contact
 isDraft: false
 seo:
