@@ -13,7 +13,7 @@ sections:
       altText: Fun feature preview
       styles:
         self:
-          borderWidth: 2
+          borderWidth: 0
     colors: bg-light-fg-dark
     styles:
       self:
