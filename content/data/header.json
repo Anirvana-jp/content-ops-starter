@@ -43,17 +43,6 @@
         },
         {
             "type": "Button",
-            "label": "Earthquake Surveys",
-            "altText": "",
-            "url": "/earthquake_surveys",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
-            "type": "Button",
             "label": "Get started",
             "altText": "",
             "url": "/academic_profile",
