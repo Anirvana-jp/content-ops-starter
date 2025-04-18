@@ -12,19 +12,16 @@ sections:
       113-142.](https://journals.sagepub.com/doi/abs/10.1177/87552930231207110)
 
 
-
       *   [**Chakraborty A**, & Goto H (2020). Visualizing data saturation
       process in mapping site amplification of earthquake ground motions.
       *Journal of Natural Disaster Science*, 40(2),
       14-25.](https://www.jstage.jst.go.jp/article/jnds/40/2/40_14/_article)
 
 
-
       *   [**Chakraborty A**, & Goto H (2018). A Bayesian model reflecting
       uncertainties on map resolutions with application to the study of site
       response variation. *Geophysical Journal International*, 214(3),
       2264-2276.](https://academic.oup.com/gji/article/214/3/2264/5046456)
-
 
 
       *   [Eguchi H, Goto H, Kurima J, & **Chakraborty A** (2023). Comparisons
@@ -34,13 +31,11 @@ sections:
       (**Japanese**)](https://www.jstage.jst.go.jp/article/jscejj/79/13/79_22-13041/_article/-char/ja/)
 
 
-
       *   [Goto H, & **Chakraborty A** (2022). Visualizing spatial probability
       fields reflecting significant differences in neighboring values. *Japan
       Society of Civil Engineering proceedings A1 (Structural/Earthquake
       Engineering)*,78(4), I-79-I-86.
       (**Japanese**)](https://www.jstage.jst.go.jp/article/jscejseee/78/4/78_I_79/_article/-char/ja/)
-
 
 
       *   [**Chakraborty A**, Ibrahim A, & Cruz AM (2018) A study of accident
