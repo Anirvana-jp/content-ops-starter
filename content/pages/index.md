@@ -42,8 +42,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      During his time in Japan, the island country has experienced many
+      earthquakes. Anirban had seen firsthand the unimaginable damage caused by
+      earthquakes on many occasions, including the 2016 Kumamoto Earthquakes,
+      the 2018 Osaka Earthquake, the 2021 Fukushima Earthquake, and the 2024
+      Noto Earthquake. 
     actions: []
     media:
       type: ImageBlock
