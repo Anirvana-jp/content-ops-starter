@@ -40,6 +40,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/ Earthquake Surveys",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
