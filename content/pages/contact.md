@@ -4,10 +4,11 @@ title: Contact
 sections:
   - type: GenericSection
     subtitle: E-mail
-    text: |
-      <anirban1990@gmail.com>
+    text: |+
+      *   <anirban1990@gmail.com>
 
-      <anirban@catfish.dpri.ac.jp>
+      *   <anirban@catfish.dpri.ac.jp>
+
     actions: []
     badge:
       type: Badge
