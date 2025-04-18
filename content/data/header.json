@@ -63,7 +63,7 @@
         },
         {
             "type": "Link",
-            "label": "Research Themes",
+            "label": "Contact",
             "url": "/contact_me",
             "showIcon": false,
             "icon": "arrowRight",
