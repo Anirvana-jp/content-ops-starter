@@ -5,44 +5,44 @@ sections:
   - type: GenericSection
     subtitle: PEER-REVIEWED
     text: >+
-      *   [**Chakraborty A**, Goto H, & Sawada S (2023). Updating proxy-based
+      *   **Chakraborty A**, Goto H, & Sawada S (2023). Updating proxy-based
       site amplification map with in-situ data in Osaka, Japan: A Bayesian
       scheme based on Uncertainty Projected Mapping. *Earthquake Spectra,*
-      40(1),
-      113-142.](https://journals.sagepub.com/doi/abs/10.1177/87552930231207110)
+      40(1), 113-142
+      [LINK](https://journals.sagepub.com/doi/abs/10.1177/87552930231207110)
 
 
-      *   [**Chakraborty A**, & Goto H (2020). Visualizing data saturation
+      *   **Chakraborty A**, & Goto H (2020). Visualizing data saturation
       process in mapping site amplification of earthquake ground motions.
-      *Journal of Natural Disaster Science*, 40(2),
-      14-25.](https://www.jstage.jst.go.jp/article/jnds/40/2/40_14/_article)
+      *Journal of Natural Disaster Science*, 40(2), 14-25.
+      [LINK](https://www.jstage.jst.go.jp/article/jnds/40/2/40_14/_article)
 
 
-      *   [**Chakraborty A**, & Goto H (2018). A Bayesian model reflecting
+      *   **Chakraborty A**, & Goto H (2018). A Bayesian model reflecting
       uncertainties on map resolutions with application to the study of site
       response variation. *Geophysical Journal International*, 214(3),
-      2264-2276.](https://academic.oup.com/gji/article/214/3/2264/5046456)
+      2264-2276. [LINK](https://academic.oup.com/gji/article/214/3/2264/5046456)
 
 
-      *   [Eguchi H, Goto H, Kurima J, & **Chakraborty A** (2023). Comparisons
+      *   Eguchi H, Goto H, Kurima J, & **Chakraborty A** (2023). Comparisons
       with site amplifications and S-wave impedance of the uppermost surface
       layer at Soma city. Special Issue (Earthquake Engineering) Technical
-      Report, *Japanese Journal of JSCE*, 79(13), 22-13041.
-      (**Japanese**)](https://www.jstage.jst.go.jp/article/jscejj/79/13/79_22-13041/_article/-char/ja/)
+      Report, *Japanese Journal of JSCE*, 79(13), 22-13041. (**Japanese**)
+      [LINK](https://www.jstage.jst.go.jp/article/jscejj/79/13/79_22-13041/_article/-char/ja/)
 
 
-      *   [Goto H, & **Chakraborty A** (2022). Visualizing spatial probability
+      *   Goto H, & **Chakraborty A** (2022). Visualizing spatial probability
       fields reflecting significant differences in neighboring values. *Japan
       Society of Civil Engineering proceedings A1 (Structural/Earthquake
-      Engineering)*,78(4), I-79-I-86.
-      (**Japanese**)](https://www.jstage.jst.go.jp/article/jscejseee/78/4/78_I_79/_article/-char/ja/)
+      Engineering)*,78(4), I-79-I-86. (**Japanese**)
+      [LINK](https://www.jstage.jst.go.jp/article/jscejseee/78/4/78_I_79/_article/-char/ja/)
 
 
-      *   [**Chakraborty A**, Ibrahim A, & Cruz AM (2018) A study of accident
+      *   **Chakraborty A**, Ibrahim A, & Cruz AM (2018) A study of accident
       investigation methodologies applied to the Natech events during the 2011
       Great East Japan earthquake. *Journal of Loss Prevention in Process
-      Industries*, 51,
-      208-222.](https://www.sciencedirect.com/science/article/abs/pii/S0950423017305028)
+      Industries*, 51, 208-222.
+      [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0950423017305028)
 
     actions: []
     badge:
@@ -53,7 +53,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-4
+          - pt-0
   - type: GenericSection
     subtitle: CONFERENCE ABSTRACTS & PROCEEDINGS
     text: >+
@@ -115,7 +115,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-4
+          - pt-3
 slug: /publications
 isDraft: false
 seo:
