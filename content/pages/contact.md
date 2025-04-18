@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: CONTACT FORM
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: 'If you have any questions or queries, please feel free to reach out.'
     text: ''
     actions: []
     media:
