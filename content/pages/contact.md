@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Email
       color: text-dark
-    subtitle: 'If you have any questions or queries, please feel free to reach out.'
+    subtitle: anirban1990@gmail.com
     text: ''
     actions: []
     badge:
