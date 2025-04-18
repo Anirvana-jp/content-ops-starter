@@ -14,6 +14,10 @@ sections:
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-4
 slug: /contact
 isDraft: false
 seo:
