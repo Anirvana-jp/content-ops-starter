@@ -3,7 +3,7 @@ type: PageLayout
 title: Contact
 sections:
   - type: GenericSection
-    subtitle: E-MAIL
+    subtitle: E-mail
     text: |
       <anirban1990@gmail.com>
 
