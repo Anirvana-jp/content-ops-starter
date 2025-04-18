@@ -46,7 +46,7 @@ sections:
       earthquakes. Anirban had seen firsthand the unimaginable damage caused by
       earthquakes on many occasions, including the 2016 Kumamoto Earthquakes,
       the 2018 Osaka Earthquake, the 2021 Fukushima Earthquake, and the 2024
-      Noto Earthquake. 
+      Noto Earthquake.
     actions: []
     media:
       type: ImageBlock
