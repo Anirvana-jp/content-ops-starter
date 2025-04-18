@@ -3,10 +3,6 @@ type: PageLayout
 title: Academic Profile
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ACADEMIC PROFILE
-      color: text-dark
     subtitle: '2008-2012 B.E. in Civil Engineering, BIT Mesra, India'
     text: ''
     actions: []
