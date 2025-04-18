@@ -1,0 +1,47 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Front ",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Front"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "",
+                "text": "Anirban is a researcher who specializes in earthquake engineering. He is currently working as an associate faculty at Hosei University in Japan. He earned his M.E. degree in 2018 and his Ph.D. in 2021 from the Disaster Prevention Research Institute at Kyoto University in Japan. He has developed Uncertainty Projected Mapping (UPM), a Bayesian-based spatial interpolation method for quantifying uncertainty in earthquake site-response maps. His research interests include studying the response to ambient noise in mountains in search of topographical signatures.\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Top_1.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Fun feature preview",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderWidth": 0
+                        }
+                    }
+                },
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-front-db39.png"
+        }
+    ]
+}
