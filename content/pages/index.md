@@ -11,6 +11,9 @@ sections:
       type: ImageBlock
       url: /images/IMG_3756.jpg
       altText: Fun feature preview
+      styles:
+        self:
+          borderWidth: 2
     colors: bg-light-fg-dark
     styles:
       self:
