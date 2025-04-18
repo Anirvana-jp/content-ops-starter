@@ -17,7 +17,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-4
+          - pt-10
 slug: /contact
 isDraft: false
 seo:
