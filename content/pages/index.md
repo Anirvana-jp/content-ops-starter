@@ -5,7 +5,8 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >
-      Anirban is a researcher who specializes in earthquake engineering. He
+      Anirban is a researcher who specializes in earthquake engineering. He is
+      currently working as an associate faculty at Hosei University in Japan. He
       earned his M.E. degree in 2018 and his Ph.D. in 2021 from the Disaster
       Prevention Research Institute at Kyoto University in Japan. He has
       developed Uncertainty Projected Mapping (UPM), a Bayesian-based spatial
