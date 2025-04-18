@@ -64,7 +64,7 @@
         {
             "type": "Link",
             "label": "Contact",
-            "url": "/contact_me",
+            "url": "/contact",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
