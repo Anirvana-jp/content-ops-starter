@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Contact
+title: Blogs
 sections:
   - type: GenericSection
     subtitle: E-mail
