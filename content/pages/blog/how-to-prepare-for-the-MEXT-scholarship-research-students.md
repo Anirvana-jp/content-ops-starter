@@ -24,10 +24,10 @@ styles:
     padding:
       - pt-0
     margin:
-      - mt-60
-      - mb-60
-      - ml-60
-      - mr-60
+      - mt-40
+      - mb-40
+      - ml-40
+      - mr-40
 type: PostLayout
 author: content/data/person1.json
 ---
