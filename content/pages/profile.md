@@ -40,7 +40,7 @@ sections:
       self:
         padding:
           - pt-10
-slug: /academic_profile
+slug: /profile
 isDraft: false
 seo:
   type: Seo
