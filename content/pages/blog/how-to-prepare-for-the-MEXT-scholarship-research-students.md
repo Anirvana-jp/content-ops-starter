@@ -27,7 +27,7 @@ styles:
       - mt-0
       - mb-40
       - ml-40
-      - mr-20
+      - mr-40
 type: PostLayout
 author: content/data/person1.json
 ---
