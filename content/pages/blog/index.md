@@ -22,7 +22,7 @@ topSections:
       self:
         padding:
           - pt-28
-          - pb-0
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: flex-start
