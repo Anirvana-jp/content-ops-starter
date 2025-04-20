@@ -1,6 +1,6 @@
 ---
 title: Blog
-slug: /blog-MEXT
+slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
