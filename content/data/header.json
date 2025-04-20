@@ -14,16 +14,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Link",
-            "label": "Profile",
-            "url": "/academic_profile",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "label": "Home",
             "altText": "",
             "url": "/home",
@@ -40,6 +30,16 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Profile",
+            "url": "/academic_profile",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         },
         {
             "type": "Link",
