@@ -21,6 +21,8 @@ styles:
   self:
     flexDirection: col
     textAlign: left
+    padding:
+      - pt-6
 type: PostLayout
 author: content/data/person1.json
 ---
