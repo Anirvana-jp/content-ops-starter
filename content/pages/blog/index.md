@@ -27,10 +27,10 @@ topSections:
           - pr-0
         justifyContent: flex-start
         margin:
-          - mt-80
-          - ml-80
-          - mb-80
-          - mr-80
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
     type: FeaturedPostsSection
     hoverEffect: move-up
 styles:
