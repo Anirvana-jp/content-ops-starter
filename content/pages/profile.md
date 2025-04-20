@@ -44,7 +44,7 @@ slug: /profile
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Anirban Chakraborty | Academic Profile
+  metaTitle: Anirban Chakraborty | Profile
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/5.jpg
