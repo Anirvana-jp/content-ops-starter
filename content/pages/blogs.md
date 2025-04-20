@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: FOR MEXT SCHOLARS/ ASPIRANTS
         tagline: ''
         subtitle: ''
         text: ''
