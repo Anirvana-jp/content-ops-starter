@@ -23,15 +23,6 @@
             "type": "Link"
         },
         {
-            "label": "Publications",
-            "altText": "Careers page",
-            "url": "/publications",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Profile",
             "url": "/academic_profile",
@@ -40,6 +31,15 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "Publications",
+            "altText": "Careers page",
+            "url": "/publications",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
         },
         {
             "type": "Link",
