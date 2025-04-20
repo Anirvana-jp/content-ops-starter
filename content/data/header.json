@@ -24,16 +24,6 @@
             "elementId": ""
         },
         {
-            "label": "Research Themes",
-            "url": "/research_themes",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link",
-            "showIcon": false,
-            "elementId": ""
-        },
-        {
             "label": "Publications",
             "altText": "Careers page",
             "url": "/publications",
