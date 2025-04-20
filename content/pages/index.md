@@ -91,7 +91,7 @@ sections:
       self:
         alignItems: center
 seo:
-  metaTitle: Anirban Chakraborty
+  metaTitle: Anirban Chakraborty | Home
   metaDescription: ''
   socialImage: /images/5.jpg
   type: Seo
