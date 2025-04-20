@@ -37,5 +37,5 @@ Recently, the Japanese government (MEXT) has announced the next edition of its s
 
 Every year, many MEXT aspirants contact me and ask for guidance on how to prepare for the MEXT Scholarship application. I have always tried to respond to those individual queries in the best possible manner. However, it would be easier if I had jotted down my suggestions in an article that I could readily refer to. Finally, this year, on my 10th anniversary in Japan, as MEXT aspirants started reaching out to me for suggestions, I decided to prepare that article. This article combines my personal experience with that of many MEXT aspirants and scholars I have interacted with over the past decade.  
 
-<div style="text-align: center">The MEXT Scholarship for Research Students is a stepping stone for students interested in pursuing a Master's or Doctoral degree at a Japanese University. The application is a year-long, multi-step process as shown in the image below. ![](/images/Table.jpg)![](/images/5_2.jpg)</div>
+<div style="text-align: left">The MEXT Scholarship for Research Students is a stepping stone for students interested in pursuing a Master's or Doctoral degree at a Japanese University. The application is a year-long, multi-step process as shown in the image below. ![](/images/Table.jpg)                                     </div>
 
