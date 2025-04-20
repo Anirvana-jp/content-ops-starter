@@ -11,10 +11,6 @@ sections:
 
       **2018-2021** Ph.D. in Earthquake Engineering, Kyoto University, Japan
 
-      **2021-Present** Associate Faculty, Hosei University, Japan
-
-
-
     actions: []
     badge:
       type: Badge
