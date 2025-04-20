@@ -61,6 +61,17 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Send email",
+            "altText": "Play",
+            "url": "/mailto:anirban1990@gmail.com",
+            "showIcon": true,
+            "icon": "mail",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
