@@ -25,7 +25,7 @@ styles:
       - pt-0
     margin:
       - mt-0
-      - mb-20
+      - mb-40
       - ml-20
       - mr-20
 type: PostLayout
