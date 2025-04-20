@@ -23,14 +23,13 @@ sections:
           - pt-10
   - type: GenericSection
     subtitle: Work Experience
-    text: |
-      2008-2012 B.E. in Civil Engineering, BIT Mesra, India
+    text: >
+      **2013-2014** Senior Engineer (Civil), Larsen & Toubro Limited, Ahmedabad,
+      India
 
 
-      2016-2018 M.E. in Earthquake Engineering, Kyoto University, Japan 
-
-
-      2018-2021 Ph.D. in Earthquake Engineering, Kyoto University, Japan 
+      **2021-Present** Associate Faculty, Faculty of Engineering and Design,
+      Hosei University, Japan 
     actions: []
     badge:
       type: Badge
