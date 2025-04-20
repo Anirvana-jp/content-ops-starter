@@ -26,7 +26,7 @@ styles:
     margin:
       - mt-0
       - mb-40
-      - ml-40
+      - ml-0
       - mr-40
 type: PostLayout
 author: content/data/person1.json
