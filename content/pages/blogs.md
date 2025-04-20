@@ -1,26 +1,7 @@
 ---
 type: PageLayout
 title: Blogs
-sections:
-  - type: GenericSection
-    subtitle: E-mail
-    text: >+
-      *   <anirban1990@gmail.com>
-
-
-      *  
-      [anirban@catfish.dpri.kyoto-u.ac.jp](mailto:anirban@catfish.dpri.kyoto-uac.jp)
-
-    actions: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-10
+sections: []
 slug: /blogs
 isDraft: false
 seo:
