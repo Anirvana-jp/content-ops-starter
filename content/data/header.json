@@ -56,7 +56,7 @@
             "type": "Link",
             "label": "BLOGS",
             "altText": "",
-            "url": "/blogs",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
