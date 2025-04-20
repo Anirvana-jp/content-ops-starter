@@ -64,15 +64,6 @@
             "elementId": ""
         },
         {
-            "label": "",
-            "altText": "",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Contact",
             "url": "/contact",
@@ -81,6 +72,15 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "",
+            "altText": "",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
