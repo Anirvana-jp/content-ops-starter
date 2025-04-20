@@ -23,6 +23,8 @@ styles:
     textAlign: left
     padding:
       - pt-0
+    margin:
+      - mt-10
 type: PostLayout
 author: content/data/person1.json
 ---
