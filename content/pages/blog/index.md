@@ -11,6 +11,8 @@ topSections:
     subtitle: This is the subtitle
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
+      - >-
+        content/pages/blog/blog/how-to-prepare-for-the-MEXT-scholarship-research-students.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
