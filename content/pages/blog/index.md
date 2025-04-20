@@ -9,7 +9,9 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/blog-MEXT/how-to-prepare-for-the-MEXT-scholarship-research-students.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
