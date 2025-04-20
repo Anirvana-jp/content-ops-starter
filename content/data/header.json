@@ -44,16 +44,6 @@
         },
         {
             "type": "Link",
-            "label": "Earthquake Survey",
-            "url": "/earthquake_survey",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "BLOG",
             "altText": "",
             "url": "/blog",
