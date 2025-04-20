@@ -52,7 +52,7 @@ slug: /blogs
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Anirban Chakraborty | Contact
+  metaTitle: Anirban Chakraborty | BLOGS
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/5.jpg
