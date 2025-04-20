@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Academic Profile
+title: Profile
 sections:
   - type: GenericSection
     subtitle: Education
