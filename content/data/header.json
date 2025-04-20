@@ -63,8 +63,9 @@
         },
         {
             "type": "Link",
-            "label": "Contact",
-            "url": "/contact",
+            "label": "BLOGS",
+            "altText": "",
+            "url": "/blogs",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -73,9 +74,8 @@
         },
         {
             "type": "Link",
-            "label": "BLOGS",
-            "altText": "",
-            "url": "/blogs",
+            "label": "Contact",
+            "url": "/contact",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
