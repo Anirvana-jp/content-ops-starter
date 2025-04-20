@@ -54,7 +54,7 @@
         },
         {
             "type": "Link",
-            "label": "BLOGS",
+            "label": "BLOG",
             "altText": "",
             "url": "/blog",
             "showIcon": false,
