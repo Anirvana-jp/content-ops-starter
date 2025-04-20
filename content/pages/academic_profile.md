@@ -22,7 +22,7 @@ sections:
         padding:
           - pt-10
   - type: GenericSection
-    subtitle: ACADEMIC CAREER
+    subtitle: Work Experience
     text: |
       2008-2012 B.E. in Civil Engineering, BIT Mesra, India
 
