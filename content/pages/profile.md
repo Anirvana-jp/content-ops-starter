@@ -45,7 +45,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Anirban Chakraborty | Profile
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: ''
   addTitleSuffix: true
   socialImage: /images/5.jpg
   metaTags: []
