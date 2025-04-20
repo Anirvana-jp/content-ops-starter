@@ -1,6 +1,6 @@
 ---
 title: How to prepare for the MEXT Scholarship (Research Students)?
-slug: how-to-prepare-for-the-MEXT-scholarship-research-students
+slug: /blog/how-to-prepare-for-the-MEXT-scholarship-research-students
 date: '2025-04-20'
 excerpt: ''
 featuredImage:
