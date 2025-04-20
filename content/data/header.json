@@ -24,6 +24,15 @@
             "elementId": ""
         },
         {
+            "label": "Home",
+            "altText": "",
+            "url": "/home",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
+        },
+        {
             "label": "Publications",
             "altText": "Careers page",
             "url": "/publications",
@@ -52,15 +61,6 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
-        },
-        {
-            "label": "Home",
-            "altText": "",
-            "url": "/home",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],
