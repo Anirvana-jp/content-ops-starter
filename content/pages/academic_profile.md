@@ -4,14 +4,19 @@ title: Academic Profile
 sections:
   - type: GenericSection
     subtitle: Academic Timeline
-    text: |
+    text: >
       **2008-2012** B.E. in Civil Engineering, BIT Mesra, India
+
 
       **2016-2018** M.E. in Earthquake Engineering, Kyoto University, Japan
 
+
       **2018-2021** Ph.D. in Earthquake Engineering, Kyoto University, Japan
 
-      **2021-Present** Associate Faculty, Hosei University, Japan
+
+      **2021-Present** Associate Faculty, [Hosei
+      University](https://create.netlify.com/studio/68018e839b1b1800c36b812f#/blog/how-to-prepare-for-the-MEXT-scholarship-research-students/),
+      Japan
     actions: []
     badge:
       type: Badge
