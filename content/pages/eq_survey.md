@@ -3,7 +3,7 @@ type: PageLayout
 title: Profile
 sections:
   - type: GenericSection
-    subtitle: Education
+    subtitle: Earthquake Survey Reports
     text: >
       [01 Jan 2024 (Mw 7.5) Noto Peninsula Earthquake, Japan
       ](https://civil.ws.hosei.ac.jp/wp/wp-content/uploads/EARTHQUAKE_DAMAGE_SURVEY_MARCH_4.pdf)
