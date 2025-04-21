@@ -21,25 +21,6 @@ sections:
       self:
         padding:
           - pt-10
-  - type: GenericSection
-    subtitle: Work Experience
-    text: >
-      **2013-2014** Senior Engineer (Civil), Larsen & Toubro Limited, Ahmedabad,
-      India
-
-
-      **2021-Present** Associate Faculty, Faculty of Engineering and Design,
-      Hosei University, Japan 
-    actions: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-10
 slug: eq_survey
 isDraft: false
 seo:
