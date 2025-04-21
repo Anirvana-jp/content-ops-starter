@@ -24,7 +24,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: PROFILE
         altText: ''
         url: /profile
         showIcon: false
