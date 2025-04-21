@@ -85,7 +85,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/2.jpg
+      url: /images/2_2.png
       altText: Dope design preview
     badge:
       type: Badge
