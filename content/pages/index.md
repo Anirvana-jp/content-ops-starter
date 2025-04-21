@@ -85,7 +85,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Screen Shot 2025-04-19 at 0.01.52.png
+      url: /images/2.jpg
       altText: Dope design preview
     badge:
       type: Badge
