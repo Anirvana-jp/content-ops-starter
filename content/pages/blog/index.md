@@ -5,33 +5,39 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Featured Posts
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - >-
+        content/pages/blog/how-to-prepare-for-the-MEXT-scholarship-research-students.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
-    variant: big-list
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-28
+          - pt-0
           - pb-0
-          - pl-4
-          - pr-4
+          - pl-0
+          - pr-0
         justifyContent: flex-start
+        margin:
+          - mt-10
+          - ml-10
+          - mb-10
+          - mr-10
     type: FeaturedPostsSection
     hoverEffect: move-up
 styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: 'Blog '
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
