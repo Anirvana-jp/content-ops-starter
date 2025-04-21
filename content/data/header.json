@@ -14,23 +14,22 @@
     },
     "primaryLinks": [
         {
+            "label": "Home",
+            "altText": "",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
+        },
+        {
             "type": "Link",
-            "label": "Academic Profile",
+            "label": "Profile",
             "url": "/academic_profile",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "elementId": ""
-        },
-        {
-            "label": "Research Themes",
-            "url": "/research_themes",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link",
-            "showIcon": false,
             "elementId": ""
         },
         {
@@ -44,22 +43,14 @@
         },
         {
             "type": "Link",
-            "label": "Earthquake Survey",
-            "url": "/earthquake_survey",
+            "label": "BLOG",
+            "altText": "",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
         },
         {
             "type": "Link",
