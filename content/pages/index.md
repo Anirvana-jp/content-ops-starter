@@ -65,7 +65,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: VOLUNTEER / DAMAGE INVESTIGATOR
+    subtitle: DISASTER RESPONSE VOLUNTEER / DAMAGE INVESTIGATOR
     text: >
       During my time in Japan, the island country has experienced many
       earthquakes. Anirban had seen firsthand the unimaginable damage caused by
