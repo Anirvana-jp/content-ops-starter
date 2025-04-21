@@ -15,7 +15,7 @@ sections:
       ambient noise in search of topographical signatures. 
     actions:
       - type: Link
-        label: See Tutorials
+        label: PUBLICATIONS
         altText: ''
         url: /publications
         showIcon: false
