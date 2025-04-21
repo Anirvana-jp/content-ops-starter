@@ -4,23 +4,15 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: EARTHQUAKE ENGINEERING
-    text: >
-      I am Anirban Chakraborty, a researcher who specializes in earthquake
-      engineering. I am currently working as an associate faculty at Hosei
-      University in Japan. I earned an M.E. degree in 2018 and a Ph.D. in 2021
-      from the Disaster Prevention Research Institute at Kyoto University in
-      Japan. 
+    text: >+
+      I am Anirban Chakraborty, an earthquake engineer based in Japan. I earned
+      a Ph.D. in 2021 from the Disaster Prevention Research Institute at Kyoto
+      University in Japan. 
 
 
-      My research interests include the uncertainty quantification of earthquake
-      site-response maps and ambient noise analysis of topography, among
-      others. 
+      I developed Uncertainty Projected Mapping (UPM), a Bayesian-based mapping
+      for quantifying uncertainty in earthquake site-response maps. 
 
-
-      I developed Uncertainty Projected Mapping (UPM), a Bayesian-based spatial
-      interpolation method for quantifying uncertainty in earthquake
-      site-response maps. I also study the seismic response of mountains to
-      ambient noise in search of topographical signatures.
     actions:
       - type: Link
         label: PROFILE
