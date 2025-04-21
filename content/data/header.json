@@ -64,7 +64,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Earthquake Surveys",
             "altText": "",
             "url": "/eq_survey",
             "showIcon": false,
