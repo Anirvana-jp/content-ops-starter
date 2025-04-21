@@ -139,7 +139,7 @@ sections:
 seo:
   metaTitle: Anirban Chakraborty | Home
   metaDescription: 'Anirban Chakraborty | Researcher | Earthquake Engineering '
-  socialImage: /images/Top_1.jpg
+  socialImage: /images/1_1.jpg
   type: Seo
   addTitleSuffix: true
   metaTags:
