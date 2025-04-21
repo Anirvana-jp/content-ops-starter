@@ -4,13 +4,9 @@ title: Profile
 sections:
   - type: GenericSection
     subtitle: Education
-    text: |+
-      **2008-2012** B.E. in Civil Engineering, BIT Mesra, India
-
-      **2016-2018** M.E. in Earthquake Engineering, Kyoto University, Japan
-
-      **2018-2021** Ph.D. in Earthquake Engineering, Kyoto University, Japan
-
+    text: >
+      [01 Jan 2024 (Mw 7.5) Noto Peninsula Earthquake, Japan
+      ](https://civil.ws.hosei.ac.jp/wp/wp-content/uploads/EARTHQUAKE_DAMAGE_SURVEY_MARCH_4.pdf)
     actions: []
     badge:
       type: Badge
