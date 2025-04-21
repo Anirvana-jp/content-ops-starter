@@ -23,6 +23,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /profile
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Top_1.jpg
