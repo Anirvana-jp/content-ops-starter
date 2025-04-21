@@ -115,7 +115,7 @@ sections:
       organization dedicated to the international students' community in Japan. 
     actions:
       - type: Link
-        label: See Tutorials
+        label: BLOG
         altText: ''
         url: /blog
         showIcon: false
