@@ -13,7 +13,7 @@ featuredImage:
 isFeatured: true
 seo:
   metaTitle: How to prepare for the MEXT Scholarship (Research Students)?
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: ''
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark
