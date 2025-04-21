@@ -108,7 +108,7 @@ sections:
           - pb-3
           - pr-3
   - type: GenericSection
-    subtitle: Co-Founder of MEXT Scholars Association
+    subtitle: CO-FOUNDER OF MEXT SCHOLAR
     text: >
       Besides doing research, Anirban is also active in giving back to the
       community. He is the co-founder of MEXT Scholars Association (MSA), an
