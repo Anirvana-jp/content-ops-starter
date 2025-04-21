@@ -27,7 +27,7 @@ sections:
         alignItems: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: RESEARCHER
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
