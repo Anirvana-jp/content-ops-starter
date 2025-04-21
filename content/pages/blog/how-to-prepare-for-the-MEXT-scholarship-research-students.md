@@ -14,7 +14,7 @@ isFeatured: true
 seo:
   metaTitle: How to prepare for the MEXT Scholarship (Research Students)?
   metaDescription: ''
-  socialImage: /images/abstract-feature2.svg
+  socialImage: /images/5.jpg
   type: Seo
 colors: bg-light-fg-dark
 styles:
