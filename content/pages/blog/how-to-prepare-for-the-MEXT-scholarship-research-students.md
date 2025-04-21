@@ -57,7 +57,7 @@ The purpose of the MEXT scholarship is to train international scholars in Japane
 
 ### 2. Be respectful of your “home country” and “Japan”
 
-In the HR and technical interview rounds, you will speak with representatives from the Japanese embassy in your country and technical experts from your home country. So, although the goal is to explain why you want to come to Japan, please do not speak badly about your home country. You can be respectful to both and still make it clear that you need to come to Japan. **A respectful mentality and a logical reason for coming to Japan will increase your chances of passing the first screening process. **
+In the HR and technical interview rounds, you will speak with representatives from the Japanese embassy in your country and technical experts from your home country. So, although the goal is to explain why you want to come to Japan, please do not speak badly about your home country. You can be respectful to both and still make it clear that you need to come to Japan. **A respectful mentality and a logical reason for coming to Japan will increase your chances of passing the first screening process.** 
 
 **Note:** I have intentionally skipped writing much on the written examination part of the application process. It is mainly an English aptitude test, except for students planning to pursue postgraduate studies in Japanese.
 
@@ -98,7 +98,7 @@ Please don't send a generic email. A simple, clear email goes a long way. You ca
 
 When you submit the final placement preference in late September, you have the option to submit more than one choice. So, it's better to have a second choice for an advisor. This is because if, for any unforeseen reason, the first choice doesn’t work out, you can always fall back on the second choice. However, it is easier said than done. If you get replies from more than one Professor, you’re lucky. However, there is nothing to worry about if you don’t.
 
-\*\*Some additional points for consideration regarding Japanese language requirements: \*\*
+**Some additional points for consideration regarding Japanese language requirements: **
 
 1.  Please clarify your potential advisor's expectations, especially regarding your expertise in the Japanese language. Many labs in Japan have an entirely Japanese environment. Adjusting quickly to these environments is not easy, but many students manage to adapt to them. It's always better to be mentally prepared, so make things clear from the start. 
 
