@@ -25,7 +25,7 @@
         {
             "type": "Link",
             "label": "Profile",
-            "url": "/academic_profile",
+            "url": "/profile",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
