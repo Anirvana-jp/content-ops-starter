@@ -4,7 +4,7 @@ slug: /how-to-prepare-for-the-MEXT-scholarship-research-students
 date: '2025-04-21'
 excerpt: ''
 featuredImage:
-  url: /images/1.jpg
+  url: /images/blog.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
@@ -31,7 +31,7 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
-![](/images/1.jpg)
+![](/images/blog.jpg)
 
 Recently, the Japanese government (MEXT) has announced the next edition of its scholarship programs. Ten years ago, I arrived in Japan in April 2015 with one of these scholarships: the MEXT Scholarship for Research Students. After one year as a research student (2015-2016), I continued with the Master's (2016-2018) and PhD (2018-2021) courses at Kyoto University using this scholarship. In total, I received the MEXT scholarship for six years. After finishing my PhD in 2021, I have been working as an associate faculty member at Hosei University in Tokyo. 
 
