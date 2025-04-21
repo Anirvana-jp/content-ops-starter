@@ -15,18 +15,18 @@ sections:
       ambient noise in search of topographical signatures. 
     actions:
       - type: Link
-        label: PUBLICATIONS
+        label: PROFILE
         altText: ''
-        url: /publications
+        url: /profile
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
       - type: Link
-        label: PROFILE
+        label: PUBLICATIONS
         altText: ''
-        url: /profile
+        url: /publications
         showIcon: false
         icon: arrowRight
         iconPosition: right
