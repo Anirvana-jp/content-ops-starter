@@ -139,7 +139,7 @@ sections:
 seo:
   metaTitle: Anirban Chakraborty | Home
   metaDescription: ''
-  socialImage: /images/5.jpg
+  socialImage: /images/Top_1.jpg
   type: Seo
   addTitleSuffix: true
   metaTags:
