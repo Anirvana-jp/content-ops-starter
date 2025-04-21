@@ -64,7 +64,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      During his time in Japan, the island country has experienced many
+      During my time in Japan, the island country has experienced many
       earthquakes. Anirban had seen firsthand the unimaginable damage caused by
       earthquakes on many occasions, including the 2016 Kumamoto Earthquakes,
       the 2018 Osaka Earthquake, the 2021 Fukushima Earthquake, and the 2024
