@@ -113,7 +113,16 @@ sections:
       Besides doing research, Anirban is also active in giving back to the
       community. He is the co-founder of MEXT Scholars Association (MSA), an
       organization dedicated to the international students' community in Japan. 
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/3.jpeg
