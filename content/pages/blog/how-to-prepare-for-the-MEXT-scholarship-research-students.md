@@ -37,7 +37,9 @@ Recently, the Japanese government (MEXT) has announced the next edition of its s
 
 Every year, many MEXT aspirants contact me and ask for guidance on how to prepare for the MEXT Scholarship application. I have always tried to respond to those individual queries in the best possible manner. However, it would be easier if I had jotted down my suggestions in an article that I could readily refer to. Finally, this year, on my 10th anniversary in Japan, as MEXT aspirants started reaching out to me for suggestions, I decided to prepare that article. This article combines my personal experience with that of many MEXT aspirants and scholars I have interacted with over the past decade.  
 
-The MEXT Scholarship for Research Students is a stepping stone for students interested in pursuing a Master's or Doctoral degree at a Japanese University. As shown in the image below, the application process is a year-long, multi-step process. The above image is based on the 2025 announcement of the scholarship program by the [Embassy of Japan in the Netherlands.](https://www.nl.emb-japan.go.jp/itpr_en/c_mextrs.html) The exact dates may vary from country to country.  The application process includes the three main steps: (a) submission of application, (b) a written examination and interview, and (c) submission of placement preference (meaning the names of potential advisors and universities). After each step, a screening is done, and finally, only a handful of applicants are selected for the scholarship.
+The MEXT Scholarship for Research Students is a stepping stone for students interested in pursuing a Master's or Doctoral degree at a Japanese University. The application process is a year-long, multi-step process (see image below). The exact dates may vary from country to country.  The application process includes the three main steps: (a) submission of application, (b) a written examination and interview, and (c) submission of placement preference (meaning the names of potential advisors and universities). After each step, a screening is done, and finally, only a handful of applicants are selected for the scholarship.
+
+![](/images/Table.jpg)
 
 My advice for surviving this year-long, multi-step application process can be summarized in five key points. 
 
@@ -49,11 +51,11 @@ My zeroth advice is to maintain a good academic record in high school and at the
 
 ### 1. Be able to answer “Why Japan?”
 
-The purpose of the MEXT scholarship is to train international scholars in Japanese expertise, enabling them to contribute to the development of their home countries. Please note that there is no obligation to return to the home country after graduation. So, a MEXT aspirant should have a clear logical answer to the question, “Why Japan?”. This question will come up repeatedly in the application process. You will need to answer it in the HR and technical interview rounds. You should also clearly address it in your research plan. If your proposed research is (a) relevant for your “home country”, and (b) your work with “Japanese experts” could train you and help contribute to your “home country”, it will be easier for you to explain your reason for coming to Japan. **A clear and logical reason for coming to Japan will increase your chances of sailing through the first screening process. **
+The purpose of the MEXT scholarship is to train international scholars in Japanese expertise, enabling them to contribute to the development of their home countries. Please note that there is no obligation to return to the home country after graduation. So, a MEXT aspirant should have a clear logical answer to the question, “Why Japan?”. This question will come up repeatedly in the application process. You will need to answer it in the HR and technical interview rounds. You should also clearly address it in your research plan. If your proposed research is (a) relevant for your “home country”, and (b) your work with “Japanese experts” could train you and help contribute to your “home country”, it will be easier for you to explain your reason for coming to Japan. \*\*A clear and logical reason for coming to Japan will increase your chances of sailing through the first screening process. \*\*
 
 ### 2. Be respectful of your “home country” and “Japan”
 
-In the HR and technical interview rounds, you will speak with representatives from the Japanese embassy in your country and technical experts from your home country. So, although the goal is to explain why you want to come to Japan, please do not speak badly about your home country. You can be respectful to both and still make it clear that you need to come to Japan. \*\*A respectful mentality and a logical reason for coming to Japan will increase your chances of passing the first screening process.   \*\*
+In the HR and technical interview rounds, you will speak with representatives from the Japanese embassy in your country and technical experts from your home country. So, although the goal is to explain why you want to come to Japan, please do not speak badly about your home country. You can be respectful to both and still make it clear that you need to come to Japan. **A respectful mentality and a logical reason for coming to Japan will increase your chances of passing the first screening process. **  
 
 **Note:** I have intentionally skipped writing much on the written examination part of the application process. It is mainly an English aptitude test, except for students planning to pursue postgraduate studies in Japanese.
 
@@ -94,9 +96,7 @@ Please don't send a generic email. A simple, clear email goes a long way. You ca
 
 When you submit the final placement preference in late September, you have the option to submit more than one choice. So, it's better to have a second choice for an advisor. This is because if, for any unforeseen reason, the first choice doesn’t work out, you can always fall back on the second choice. However, it is easier said than done. If you get replies from more than one Professor, you’re lucky. However, there is nothing to worry about if you don’t.
 
-
-
-**Some additional points for consideration regarding Japanese language requirements: **
+\*\*Some additional points for consideration regarding Japanese language requirements: \*\*
 
 1.  Please clarify your potential advisor's expectations, especially regarding your expertise in the Japanese language. Many labs in Japan have an entirely Japanese environment. Adjusting quickly to these environments is not easy, but many students manage to adapt to them. It's always better to be mentally prepared, so make things clear from the start. 
 
