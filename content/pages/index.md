@@ -3,17 +3,38 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: ''
+    subtitle: EARTHQUAKE ENGINEERING
     text: >
-      Anirban is a researcher who specializes in earthquake engineering. He is
-      currently working as an associate faculty at Hosei University in Japan. He
-      earned his M.E. degree in 2018 and his Ph.D. in 2021 from the Disaster
-      Prevention Research Institute at Kyoto University in Japan. He has
-      developed Uncertainty Projected Mapping (UPM), a Bayesian-based spatial
-      interpolation method for quantifying uncertainty in earthquake
-      site-response maps. His research interests include studying the response
-      to ambient noise in mountains in search of topographical signatures.
-    actions: []
+      I am Anirban Chakraborty, an earthquake engineer based in Japan. I earned
+      a Ph.D. in 2021 from the Disaster Prevention Research Institute at Kyoto
+      University in Japan.
+
+
+      I developed Uncertainty Projected Mapping (UPM), a Bayesian-based mapping
+      for quantifying uncertainty in earthquake site-response maps.
+
+
+      I also study the seismic response of mountains to ambient noise in search
+      of topographical signatures. 
+    actions:
+      - type: Link
+        label: PROFILE
+        altText: ''
+        url: /profile
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: PUBLICATIONS
+        altText: ''
+        url: /publications
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Top_1.jpg
@@ -25,6 +46,10 @@ sections:
     styles:
       self:
         alignItems: center
+    title:
+      type: TitleBlock
+      text: RESEARCHER
+      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -40,17 +65,27 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: ''
+    subtitle: DISASTER RESPONSE VOLUNTEER / DAMAGE INVESTIGATOR
     text: >
-      During his time in Japan, the island country has experienced many
-      earthquakes. Anirban had seen firsthand the unimaginable damage caused by
-      earthquakes on many occasions, including the 2016 Kumamoto Earthquakes,
-      the 2018 Osaka Earthquake, the 2021 Fukushima Earthquake, and the 2024
-      Noto Earthquake.
-    actions: []
+      I worked as a disaster response volunteer after the 2016 Kumamoto
+      Earthquake and the 2018 Japan floods, which allowed me to see the
+      disastrous impact of disasters from up close. Later, these volunteer
+      experiences led to my joining the JSCE Earthquake Damage Investigation
+      Sub-committee. As a damage investigator, I surveyed the 2021 Fukushima
+      Earthquake and the 2024 Noto Earthquake.
+    actions:
+      - type: Link
+        label: EARTHQUAKE SURVEYS
+        altText: ''
+        url: /eq_survey
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
-      url: /images/Screen Shot 2025-04-19 at 0.01.52.png
+      url: /images/2_2.png
       altText: Dope design preview
     badge:
       type: Badge
@@ -73,12 +108,23 @@ sections:
           - pb-3
           - pr-3
   - type: GenericSection
-    subtitle: ''
+    subtitle: CO-FOUNDER OF MEXT SCHOLARS ASSOCIATION
     text: >
-      Besides doing research, Anirban is also active in giving back to the
-      community. He is the co-founder of MEXT Scholars Association (MSA), an
-      organization dedicated to the international students' community in Japan. 
-    actions: []
+      I was a Japanese government (MEXT) Scholar from 2015 to 2021. My love for
+      community-building and networking led to my co-founding the [MSA,
+      ](https://mextsa.org/)an organization for international Scholars in Japan.
+      I continue to engage with international scholars by giving talks and
+      writing blogs.
+    actions:
+      - type: Link
+        label: BLOG
+        altText: ''
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/3.jpeg
@@ -91,7 +137,7 @@ sections:
       self:
         alignItems: center
 seo:
-  metaTitle: Anirban Chakraborty
+  metaTitle: Anirban Chakraborty | Home
   metaDescription: ''
   socialImage: /images/5.jpg
   type: Seo
