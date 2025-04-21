@@ -73,7 +73,16 @@ sections:
       experiences led to my joining the JSCE Earthquake Damage Investigation
       Sub-committee. As a damage investigator, I surveyed the 2021 Fukushima
       Earthquake and the 2024 Noto Earthquake.
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /eq_survey
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Screen Shot 2025-04-19 at 0.01.52.png
