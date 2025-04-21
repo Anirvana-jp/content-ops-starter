@@ -13,7 +13,16 @@ sections:
       spatial interpolation method for quantifying uncertainty in earthquake
       site-response maps. I also study the seismic response of mountains to
       ambient noise in search of topographical signatures. 
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /publications
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Top_1.jpg
