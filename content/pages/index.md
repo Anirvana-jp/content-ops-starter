@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: ''
+    subtitle: EARTHQUAKE ENGINEERING
     text: >
       Anirban is a researcher who specializes in earthquake engineering. He is
       currently working as an associate faculty at Hosei University in Japan. He
