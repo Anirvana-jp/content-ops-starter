@@ -43,9 +43,9 @@
         },
         {
             "type": "Link",
-            "label": "BLOG",
+            "label": "Earthquake Surveys",
             "altText": "",
-            "url": "/blog",
+            "url": "/eq_survey",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -54,9 +54,9 @@
         },
         {
             "type": "Link",
-            "label": "Earthquake Surveys",
+            "label": "BLOG",
             "altText": "",
-            "url": "/eq_survey",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
