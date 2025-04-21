@@ -110,9 +110,11 @@ sections:
   - type: GenericSection
     subtitle: CO-FOUNDER OF MEXT SCHOLARS ASSOCIATION
     text: >
-      Besides doing research, Anirban is also active in giving back to the
-      community. He is the co-founder of MEXT Scholars Association (MSA), an
-      organization dedicated to the international students' community in Japan. 
+      I was a Japanese government (MEXT) Scholar from 2015 to 2021. My love for
+      community-building and networking led to my co-founding the [MSA,
+      ](https://www.facebook.com/mextscholars?__cft__\[0]=AZV3pJCZVWVef_eIzYVCH-LOzWnMC_PI1m2canPNpNFPKdkxc9ikg_6jLwNoljsMHcX8SedVrg-2k7Vr6IeFmngHCZGbRMPvjl3lCze2HI_sPxIG8lmmYCDEkFut7dVPySJXpk-LTOlyQbR1JGVqpoF-R9714BCTrWM4KafvyHlEEg&__tn__=-]K-R)an
+      organization for international Scholars in Japan. I continue to engage
+      with international scholars by giving talks and writing blogs. 
     actions:
       - type: Link
         label: BLOG
