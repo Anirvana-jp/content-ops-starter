@@ -67,11 +67,12 @@ sections:
       color: text-dark
     subtitle: DISASTER RESPONSE VOLUNTEER / DAMAGE INVESTIGATOR
     text: >
-      During my time in Japan, the island country has experienced many
-      earthquakes. Anirban had seen firsthand the unimaginable damage caused by
-      earthquakes on many occasions, including the 2016 Kumamoto Earthquakes,
-      the 2018 Osaka Earthquake, the 2021 Fukushima Earthquake, and the 2024
-      Noto Earthquake.
+      I worked as a disaster response volunteer after the 2016 Kumamoto
+      Earthquake and the 2018 Japan floods, which allowed me to see the
+      disastrous impact of disasters from up close. Later, these volunteer
+      experiences led to my joining the JSCE Earthquake Damage Investigation
+      Sub-committee. As a damage investigator, I surveyed the 2021 Fukushima
+      Earthquake and the 2024 Noto Earthquake.
     actions: []
     media:
       type: ImageBlock
