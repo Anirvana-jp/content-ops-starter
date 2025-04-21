@@ -98,7 +98,7 @@ Please don't send a generic email. A simple, clear email goes a long way. You ca
 
 When you submit the final placement preference in late September, you have the option to submit more than one choice. So, it's better to have a second choice for an advisor. This is because if, for any unforeseen reason, the first choice doesn’t work out, you can always fall back on the second choice. However, it is easier said than done. If you get replies from more than one Professor, you’re lucky. However, there is nothing to worry about if you don’t.
 
-\*\*Some additional points for consideration regarding Japanese language requirements: \*\*
+**Some additional points for consideration regarding Japanese language requirements: **
 
 1.  Please clarify your potential advisor's expectations, especially regarding your expertise in the Japanese language. Many labs in Japan have an entirely Japanese environment. Adjusting quickly to these environments is not easy, but many students manage to adapt to them. It's always better to be mentally prepared, so make things clear from the start. 
 
