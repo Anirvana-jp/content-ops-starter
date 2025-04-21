@@ -4,7 +4,7 @@ slug: /how-to-prepare-for-the-MEXT-scholarship-research-students
 date: '2025-04-21'
 excerpt: ''
 featuredImage:
-  url: /images/1.jpg
+  url: /images/blog.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
