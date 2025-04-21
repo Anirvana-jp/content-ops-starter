@@ -75,7 +75,7 @@ sections:
       Earthquake and the 2024 Noto Earthquake.
     actions:
       - type: Link
-        label: See Tutorials
+        label: EARTHQUAKE SURVEYS
         altText: ''
         url: /eq_survey
         showIcon: false
