@@ -39,7 +39,7 @@ Every year, many MEXT aspirants contact me and ask for guidance on how to prepar
 
 The MEXT Scholarship for Research Students is a stepping stone for students interested in pursuing a Master's or Doctoral degree at a Japanese University. The application process is a year-long, multi-step process (see image below). The exact dates may vary from country to country.  The application process includes the three main steps: (a) submission of application, (b) a written examination and interview, and (c) submission of placement preference (meaning the names of potential advisors and universities). After each step, a screening is done, and finally, only a handful of applicants are selected for the scholarship.
 
-<div style="text-align: center">![](/images/Table.jpg)*The above image is based on the 2025 announcement of the scholarship program by the* [*Embassy of Japan in the Netherlands.*](https://www.nl.emb-japan.go.jp/itpr_en/c_mextrs.html) **</div>
+<div style="text-align: center">![](/images/Table.jpg)*The above image is based on the 2025 announcement of the scholarship program by the* [*Embassy of Japan in the Netherlands.*](https://www.nl.emb-japan.go.jp/itpr_en/c_mextrs.html)</div>
 
 <div style="text-align: center"></div>
 
@@ -57,7 +57,7 @@ The purpose of the MEXT scholarship is to train international scholars in Japane
 
 ### 2. Be respectful of your “home country” and “Japan”
 
-In the HR and technical interview rounds, you will speak with representatives from the Japanese embassy in your country and technical experts from your home country. So, although the goal is to explain why you want to come to Japan, please do not speak badly about your home country. You can be respectful to both and still make it clear that you need to come to Japan. \*\*A respectful mentality and a logical reason for coming to Japan will increase your chances of passing the first screening process. \*\*  
+In the HR and technical interview rounds, you will speak with representatives from the Japanese embassy in your country and technical experts from your home country. So, although the goal is to explain why you want to come to Japan, please do not speak badly about your home country. You can be respectful to both and still make it clear that you need to come to Japan. **A respectful mentality and a logical reason for coming to Japan will increase your chances of passing the first screening process. **
 
 **Note:** I have intentionally skipped writing much on the written examination part of the application process. It is mainly an English aptitude test, except for students planning to pursue postgraduate studies in Japanese.
 
